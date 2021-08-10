@@ -1,15 +1,16 @@
 # Índice
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-ActividadLunes01 (Repaso de FP y Arreglos)
+Práctica0 (Sistema de Gestión de Calidad)
 
-ActividadLunes02 (Algoritmo operación Push y Pop)
+Práctica01 (Apliación de Arreglos)
 
-ActividadLunes03 (Codificación de algoritmo de operaciones matemáticas)
+Práctica02 (Retomar Actividades(Sin actividad para entregar))
 
-ActividadLunes04 (Notación Polaca)
+Práctica03 (Importancia de Pilas (Sin actividad para entregar))
 
-ActividadLunes05 (Introducción a Python)
+Práctica04 (Notación Polaca(Sin actividad para entregar))
 
-ActividadLunes06 (Curso de Python 1er Parte)
-Aquí se almacenaran los archivos relacionados a las Prácticas de Laboratorio
+Práctica05 (Importancia de Python(Sin actividad para entregar))
+
+Práctica06 (Colas y Pilas)
