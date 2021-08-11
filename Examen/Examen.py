@@ -27,9 +27,11 @@ for i in contenido:
 #Comparo cuantas personas tienen COVID para saber el semforo
 if conta_si==0:
 	print("\nEl semforo esta en verde\n")
-elif conta_si>0:
+
+elif conta_si<30:
 	print("\nEl semforo esta en Amarillo\n")
-elif conta_si>30:
+
+elif conta_si<70:
 	print("\nEl semforo esta en Naranja\n")
 elif conta_si>70:
 	print("\nEl semforo esta en Rojo\n")
@@ -37,10 +39,10 @@ elif conta_si>70:
 #Compruebo por lo menos que alguien tenga covid para obtener el promedio de edad de las
 #personas que tienen COVID
 if conta_si!=0:
+
 	prom=conta_edad/conta_si
+	
 	print("La edad promedio de las personas que tiene covid son: "+str(prom))
+
 else:
 	print("Nadie tiene covid")
-
-
-	
